@@ -1,7 +1,7 @@
 import './App.css';
 import { useEffect, useState } from 'react';
 import Projects from './Project';
-import { delay, motion, px } from 'framer-motion'
+import {motion } from 'framer-motion'
 
 
 const animation = {
